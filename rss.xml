@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Pumpkin House]]></title>
-        <description><![CDATA[Pumpkin House]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[For Sale: $5,250,000  16 Chittenden Avenue, New York, NY]]></title>
+        <description><![CDATA[For Sale: $5,250,000  16 Chittenden Avenue, New York, NY]]></description>
+        <link>https://thegrid.ai/pumpkin-house/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 18:41:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Apr 2016 19:08:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/pumpkin-house/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/61339da0-1950-4bc9-811c-a97322e63d7d.jpg">]]></description>
-            <link>undefined25d33df2-c5fd-49b1-a626-94447bf79468/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e69d355-8566-49bb-8f13-36969ed4b89d.jpg">]]></description>
+            <link>https://thegrid.ai/pumpkin-house/25d33df2-c5fd-49b1-a626-94447bf79468/index.html</link>
             <guid isPermaLink="false">25d33df2-c5fd-49b1-a626-94447bf79468</guid>
-            <pubDate>Wed, 27 Apr 2016 18:40:52 GMT</pubDate>
+            <pubDate>Wed, 27 Apr 2016 19:08:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
