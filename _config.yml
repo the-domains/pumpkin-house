@@ -2,12 +2,13 @@ name: Pumpkin House
 favicon: null
 layout_spectrum: 0.3573536234907806
 typography_spectrum: 0.14502965775318444
+title: 'For Sale: $5,250,000  16 Chittenden Avenue, New York, NY'
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-77021741-1
   facebook: null
   twitter: null
 opengraph:
