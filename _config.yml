@@ -1,0 +1,28 @@
+name: Pumpkin House
+favicon: null
+layout_spectrum: 0.3573536234907806
+typography_spectrum: 0.14502965775318444
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8004729175008833
+  lightness: 0.34839290007948875
+  saturation: 0.6679770334158093
+  rhythmicContrast: 0.5724063005764037
+purpose: []
