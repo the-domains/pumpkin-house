@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[For Sale: $5,250,000 6 Bedroom, 3 Bath  "Pumpkin House" 16 Chittenden Avenue, New York, NY]]></title>
         <description><![CDATA[For Sale: $5,250,000 6 Bedroom, 3 Bath  "Pumpkin House" 16 Chittenden Avenue, New York, NY]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/pumpkin-house/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 15:04:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 29 Apr 2016 15:06:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/pumpkin-house/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f61d18d-7788-45e5-b1a6-1715204abff5.jpg">]]></description>
+            <link>http://nypost.com/1999/04/07/pumpkin-ho-on-block-for-1-6m/</link>
+            <guid isPermaLink="false">4589c4db-981d-482b-a9f3-c587eeb09900</guid>
+            <pubDate>Fri, 29 Apr 2016 15:06:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/556a002f-c006-4379-92cf-46bdc5c96a1f.jpg">]]></description>
