@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Gregory Shugal
-datePublished: '2016-04-29T01:32:30.784Z'
-dateModified: '2016-04-29T01:32:22.416Z'
+datePublished: '2016-04-29T15:52:17.063Z'
+dateModified: '2016-04-29T15:52:05.277Z'
 title: ''
 author:
   - name: Greg Shugal
@@ -34,7 +34,7 @@ Simone Song Properties
 
 New York, NY 10033
 
-Cell: (917)765-8979   
+Cell: (917)765-8979 
 
 Office: (212)928-5100
 
@@ -44,5 +44,10 @@ Instagram: GregsUptown
 
 GregsUptown.com
 
-LinkedIn: https://www.linkedin.com/in/gshugal
+[LinkedIn: https://www.linkedin.com/in/gshugal][0]
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/58bd1823492e53fe9caa9873e3cbc34db8f713ad.jpg)
+
+  
+
+
+[0]: GregsUptown.com
