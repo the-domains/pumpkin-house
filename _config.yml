@@ -1,29 +1,41 @@
-name: '"Pumpkin House" 16 Chittenden Avenue, Hudson Heights, New York, NY'
-favicon: null
-layout_spectrum: 0.93636
-typography_spectrum: 1
 title: '$5,250,000 6 Bedroom, 3 Bath  "Pumpkin House" 16 Chittenden Avenue, New York, NY'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-77021741-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0
+  brandStrength: 0.9375
+  lightness: 0.02508961
   brandColors:
     - '#fefefe'
     - '#2d2d2d'
     - '#0b0b0b'
     - '#c9c9c9'
     - '#787878'
-  brandStrength: 0.9375
-  lightness: 0.1875
-  saturation: 0.9375
-  rhythmicContrast: 0.75
-purpose: []
+  rhythmicContrast: 1
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: UA-77021741-1
+  facebook: null
+favicon: null
+name: '"Pumpkin House" 16 Chittenden Avenue, Hudson Heights, New York, NY'
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 1
+layout_spectrum: 0.9086022
