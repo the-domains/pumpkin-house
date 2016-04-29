@@ -1,14 +1,16 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: Gregory Shugal
-datePublished: '2016-04-28T22:55:48.177Z'
-dateModified: '2016-04-28T22:55:29.689Z'
+datePublished: '2016-04-29T00:21:30.063Z'
+dateModified: '2016-04-29T00:20:56.950Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-28-gregory-shugal.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,10 +18,8 @@ publisher:
   url: null
   favicon: null
 starred: true
-sourcePath: _posts/2016-04-28-gregory-shugal.md
-published: true
 url: gregory-shugal/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e46beccf-dc89-4ba9-a5eb-39fe8da8d819.jpg)
