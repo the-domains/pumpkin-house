@@ -1,0 +1,20 @@
+---
+author: []
+datePublished: '2016-05-21T23:31:17.810Z'
+dateModified: '2016-04-29T16:31:26.308Z'
+title: ''
+publisher:
+  name: streeteasy.com
+  domain: streeteasy.com
+description: "Perched on a cliff, high above the Hudson River, at the intersection of two one-block streets, there's a one-of-a-kind vintage home now available for sale. It's had only four owners since 1923. Want to be the fifth? Here's your opportunity to own this famous and intriguing home, which comes with a rental unit. The Pumpkin House, named for it’s resemblance to a Jack O'Lantern at night, is a 3-story brick building containing two family units. Panoramic views of the Hudson River and the Palisades sweep you away! Walk into the main floor of the house to find a comfortably-sized windowed dining room, a small library, and a \"French country\" kitchen. The impressively long living room has spectacular views. Adjacent to the south wall of the living room is an equally long balcony, with views of the Manhattan skyline, the George Washington Bridge, the Palisades and the Tappan Zee Bridge. Walk up a flight of stairs to the sleeping quarters, containing two large bedrooms, three small bedrooms/studies, and two bathrooms. All rooms are flooded with light. The roof terrace is up the next flight. It runs the length of house, with North, South, East and West views ! Down a flight from the street level is a one bedroom unit, featuring a generous living room and an outdoor terrace, again offering views to four exposures. Next to the living room is the updated Kitchen, then comes the bathroom with bedroom beyond. Step outside the house, and you’ll find a lovely garden and adjacent two-car garage. And here’s the best news. If the existing space is not enough, you can build above it ! Following the current zoning regulations, you can add up to four more stories above the existing building. See detailed analysis provided herein. DELIVERED VACANT IN “AS IS” CONDITION"
+starred: false
+sourcePath: _posts/2016-05-21-perched-on-a-cliff-high-above-the-hudson-river-at-the-inte.md
+inFeed: true
+hasPage: true
+inNav: false
+url: perched-on-a-cliff-high-above-the-hudson-river-at-the-inte/index.html
+_type: Article
+_context: 'http://schema.org'
+
+---
+Perched on a cliff, high above the Hudson River, at the intersection of two one-block streets, there's a one-of-a-kind vintage home now available for sale. It's had only four owners since 1923\. Want to be the fifth? Here's your opportunity to own this famous and intriguing home, which comes with a rental unit. The Pumpkin House, named for it's resemblance to a Jack O'Lantern at night, is a 3-story brick building containing two family units. Panoramic views of the Hudson River and the Palisades sweep you away! Walk into the main floor of the house to find a comfortably-sized windowed dining room, a small library, and a "French country" kitchen. The impressively long living room has spectacular views. Adjacent to the south wall of the living room is an equally long balcony, with views of the Manhattan skyline, the George Washington Bridge, the Palisades and the Tappan Zee Bridge. Walk up a flight of stairs to the sleeping quarters, containing two large bedrooms, three small bedrooms/studies, and two bathrooms. All rooms are flooded with light. The roof terrace is up the next flight. It runs the length of house, with North, South, East and West views ! Down a flight from the street level is a one bedroom unit, featuring a generous living room and an outdoor terrace, again offering views to four exposures. Next to the living room is the updated Kitchen, then comes the bathroom with bedroom beyond. Step outside the house, and you'll find a lovely garden and adjacent two-car garage. And here's the best news. If the existing space is not enough, you can build above it ! Following the current zoning regulations, you can add up to four more stories above the existing building. See detailed analysis provided herein. DELIVERED VACANT IN "AS IS" CONDITION
