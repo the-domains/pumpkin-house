@@ -1,7 +1,7 @@
 name: '"Pumpkin House" 16 Chittenden Avenue, Hudson Heights, New York, NY'
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.93594
+layout_spectrum: 0.95303
+typography_spectrum: 1
 collections:
   - index:
       path: /
@@ -29,13 +29,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#020001'
-    - '#fefefe'
-    - '#beae9d'
-    - '#8f755c'
-    - '#3b3b47'
+    - '#000000'
+    - '#bbbbbb'
+    - '#d9d9d9'
+    - '#1e1e1e'
+    - '#555555'
   brandStrength: 0.75
-  lightness: 0.0625
-  saturation: 0.6875
+  lightness: 0.1875
+  saturation: 0.75
   rhythmicContrast: 0.75
 purpose: []
